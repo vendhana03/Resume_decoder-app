@@ -1,6 +1,6 @@
-# Contributing to Attendance app
+# Contributing to Resume Decoder application
 
-Thank you for your interest in contributing to Attendance app!
+Thank you for your interest in contributing to Resume Decoder application!
 
 ## Contributing a fix or feature
 Generally, contributions are managed by issues and pull requests.
