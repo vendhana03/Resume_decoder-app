@@ -24,7 +24,7 @@ module.exports = {
     destFilePath: "./resume.xls",
     strInvalidFile: "\nInvalid file:",
     strFileWritten: "\nxlsx file is written.",
-    dbUrl: "mongodb://vendhana:admin123@ds253348.mlab.com:53348/resumedecoder",
+    dbUrl: "mongodb://username:password.mlab.com:53348/resumedecoder",
     strConnectedSuccess: "\nDB Connected Successfully", 
     strDataAdded: "\nData added successfully",
     strFileName: "file_name",
